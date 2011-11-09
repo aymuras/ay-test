@@ -2,6 +2,5 @@ test1 from muras
 test2 from Marcin
 test2 from Lukasz
 test3 from Marcin
-test4 from lukasz
-test5 from lukasz
+test4 from lukaszs
 test5 from marcin
